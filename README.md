@@ -8,7 +8,7 @@
 
 - 📫 Let's connect at: **ameeraashique6@gmail.com**
 
-- 📄 Resume: [https://rngfefhpsfpbbwcrfhze.supabase.co/storage/v1/object/public/resumes/Amirudheen_Shareif__CV.pdf](https://rngfefhpsfpbbwcrfhze.supabase.co/storage/v1/object/public/resumes/Amirudheen_Shareif__CV.pdf)
+- 📄 Resume: [(https://github.com/user-attachments/files/23693935/Amirudheen_Shareif.pdf)]
 
 - 🌱 I’m currently exploring **Langchain**
 
